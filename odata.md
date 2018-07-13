@@ -75,3 +75,5 @@ http://www.odata.org/getting-started/understand-odata-in-6-steps/
 
 ???https://templth.wordpress.com/2015/04/03/handling-odata-queries-with-elasticsearch/
 ???https://templth.wordpress.com/2015/04/10/what-can-odata-bring-to-elasticsearch/
+
+???olingonun readEntityCollection methoduna gelip (ElasticSearchExpressionVisitor, visitBinaryOperator vb. https://github.com/Hevelian/hevelian-olastic/blob/master/olastic-core/src/main/java/com/hevelian/olastic/core/api/uri/queryoption/expression/ElasticSearchExpressionVisitor.java) sonra hangi turden sorguları yapabiliyorsa ona karsılık gelen elasticsearh querylerini generate eden kodları yazabiliriz, havelian-olingo ya vb gerek yok bence.
