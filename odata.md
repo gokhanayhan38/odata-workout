@@ -69,3 +69,9 @@ https://blogs.sap.com/2016/02/08/odata-everything-that-you-need-to-know-part-3/
 
 http://www.odata.org/getting-started/basic-tutorial/
 http://www.odata.org/getting-started/understand-odata-in-6-steps/
+
+
+ÖNEMLİ:
+
+???https://templth.wordpress.com/2015/04/03/handling-odata-queries-with-elasticsearch/
+???https://templth.wordpress.com/2015/04/10/what-can-odata-bring-to-elasticsearch/
